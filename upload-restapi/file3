@@ -1,0 +1,11 @@
+HTTP/1.1 501 Not Implemented
+x-amz-request-id: 6824F6338F5133A7
+x-amz-id-2: QImALeeZquhft1RK0RkAU7PFu9GzuandkJ/5o/JvnpLmK3s3BEurLzgLq1+1tbGHeLM8qymJxxg=
+Content-Type: application/xml
+Transfer-Encoding: chunked
+Date: Fri, 03 Feb 2017 11:22:18 GMT
+Connection: close
+Server: AmazonS3
+
+<?xml version="1.0" encoding="UTF-8"?>
+<Error><Code>NotImplemented</Code><Message>A header you provided implies functionality that is not implemented</Message><Header>Transfer-Encoding</Header><RequestId>6824F6338F5133A7</RequestId><HostId>QImALeeZquhft1RK0RkAU7PFu9GzuandkJ/5o/JvnpLmK3s3BEurLzgLq1+1tbGHeLM8qymJxxg=</HostId></Error>

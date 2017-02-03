@@ -1,0 +1,10 @@
+HTTP/1.1 100 Continue
+
+HTTP/1.1 200 OK
+x-amz-id-2: f7jXPXoa2AOhne/FjTRUc+QiPpO6p33b4nSz2cx8Rr49J130wgLZgDhxRlE587fLqcXo1amL7Vw=
+x-amz-request-id: CC55A99FAF55397B
+Date: Fri, 03 Feb 2017 11:22:20 GMT
+ETag: "4345184361915e8d0592760a254ab488"
+Content-Length: 0
+Server: AmazonS3
+
